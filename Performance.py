@@ -1,3 +1,28 @@
+    
+"""
+    Developer:           Rusif Eyvazli
+    Date:                07/24/2019
+    Project link:        https://rusife.github.io/Performance-Analysis-for-Network-Storage/
+    Learn more about me: https://www.linkedin.com/in/rusifeyvazli/
+    Contact:             eyvazlirusif@gmail.com
+    
+    Program name:        Performance Analysis for Network Storage
+    Purpose:             Using this Python program you can graph a line plot using the data that 
+                         has special pattern from a data file that's mixed up with other notes. 
+    
+    Copyright (C) <2019>  <Rusif Eyvazli>
+    This program is free software: you can redistribute it and/or modify
+    it under the terms of the GNU Affero General Public License as
+    published by the Free Software Foundation, either version 3 of the
+    License, or (at your option) any later version.
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+    GNU Affero General Public License for more details.
+    You should have received a copy of the GNU Affero General Public License
+    along with this program. If not, see <https://www.gnu.org/licenses/>.
+"""
+
 import pandas as pd
 import seaborn as sns
 import matplotlib
