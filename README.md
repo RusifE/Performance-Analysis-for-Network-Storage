@@ -2,7 +2,7 @@
 
 ## About
 
-Using this Python program, developed by me, _Rusif Eyvazli_, you can graph a line plot using data file. The challenge in this task was to read the data from the given file which was mixed up with the notes by the data producer. To be able to read the data and get the resulted graph, the data were first filtered out by first two and last columns, then important three columns derived from the resulted data frame and plotted using Seaborn package.
+Using this Python program, developed by me, _Rusif Eyvazli_, you can graph a line plot using the data that has special pattern from a data file that's mixed up with other notes. The challenge in this task was to read the data from the given file which was mixed up with the notes by the data producer. To be able to read the data and get the resulted graph, the data were first filtered out by first two and last columns, then important three columns derived from the resulted data frame and plotted using Seaborn package.
 
 ## How to run
 To run the program, please use the following command:
